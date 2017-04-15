@@ -1,0 +1,178 @@
+G:\大论文\前期工作\VC#\BID\BID\bin\Debug\BID.exe.config
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.csprojResolveAssemblyReference.cache
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmBellyWaistHipData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmChestData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmDataQuery.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmFootData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmHeaderData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmLowerLimbsData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmNeckData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmShoulderData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmTrunkIntegralData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.BaseInfo.frmUpperLimbsData.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.frmLogin.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.frmMain.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.SetSystem.frmBakup.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.SetSystem.frmClearTable.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.SetSystem.frmSetOP.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.Welcome.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.Properties.Resources.resources
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.csproj.GenerateResource.Cache
+G:\大论文\前期工作\VC#\BID\BID\bin\Debug\BID.exe
+G:\大论文\前期工作\VC#\BID\BID\bin\Debug\BID.pdb
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.exe
+G:\大论文\前期工作\VC#\BID\BID\obj\Debug\BID.pdb
+H:\源代码\BID3.23.15：21\BID\bin\Debug\BID.exe.config
+H:\源代码\BID3.23.15：21\BID\obj\Debug\BID.exe
+H:\源代码\BID3.23.15：21\BID\obj\Debug\BID.pdb
+G:\大论文\前期工作\BID3.23.15：21\BID\bin\Debug\BID.exe.config
+G:\大论文\前期工作\BID3.23.15：21\BID\obj\Debug\BID.exe
+G:\大论文\前期工作\BID3.23.15：21\BID\obj\Debug\BID.pdb
+G:\大论文\前期工作\VC#\BID3.23.新\BID\bin\Debug\BID.exe.config
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.exe
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.pdb
+G:\大论文\前期工作\VC#\BID3.23.新\BID\bin\Debug\BID.exe
+G:\大论文\前期工作\VC#\BID3.23.新\BID\bin\Debug\BID.pdb
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.csprojResolveAssemblyReference.cache
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmBellyWaistHipData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmChestData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmDataQuery.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmFootData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmHeaderData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmLowerLimbsData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmNeckData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmOwner.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmShoulderData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmTrunkIntegralData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmUpperLimbsData.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.frmLogin.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.frmMain.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.SetSystem.frmBakup.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.SetSystem.frmClearTable.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.SetSystem.frmSetOP.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.Welcome.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.Properties.Resources.resources
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.csproj.GenerateResource.Cache
+G:\大论文\前期工作\VC#\BID3.23.新\BID\obj\Debug\BID.BaseInfo.frmQuery.resources
+G:\大论文\BID新4.11.11：52\BID\bin\Debug\BID.exe.config
+G:\大论文\BID新4.11.11：52\BID\obj\Debug\BID.exe
+G:\大论文\BID新4.11.11：52\BID\obj\Debug\BID.pdb
+G:\大论文\BID新4.11改\BID\bin\Debug\BID.exe.config
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.exe
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.pdb
+G:\大论文\BID新4.11改\BID\bin\Debug\BID.exe
+G:\大论文\BID新4.11改\BID\bin\Debug\BID.pdb
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.csprojResolveAssemblyReference.cache
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmBellyWaistHipData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmChestData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmDataQuery.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmFootData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmHeaderData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmLowerLimbsData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmNeckData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmOwner.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmQuery.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmShoulderData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmTrunkIntegralData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.BaseInfo.frmUpperLimbsData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.frmLogin.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.frmMain.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.InfoAddForm.frmAddData.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.SetSystem.frmBakup.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.SetSystem.frmClearTable.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.SetSystem.frmSetOP.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.Welcome.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.Properties.Resources.resources
+G:\大论文\BID新4.11改\BID\obj\Debug\BID.csproj.GenerateResource.Cache
+G:\大论文\BID新4.11改2\BID\bin\Debug\BID.exe.config
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.exe
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.pdb
+G:\大论文\BID新4.11改2\BID\bin\Debug\BID.exe
+G:\大论文\BID新4.11改2\BID\bin\Debug\BID.pdb
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.csprojResolveAssemblyReference.cache
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmBellyWaistHipData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmChestData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmDataQuery.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmFootData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmHeaderData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmLowerLimbsData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmNeckData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmOwner.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmQuery.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmShoulderData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmTrunkIntegralData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.BaseInfo.frmUpperLimbsData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.frmLogin.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.frmMain.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.InfoAddForm.frmAddData.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.SetSystem.frmBakup.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.SetSystem.frmClearTable.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.SetSystem.frmSetOP.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.Welcome.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.Properties.Resources.resources
+G:\大论文\BID新4.11改2\BID\obj\Debug\BID.csproj.GenerateResource.Cache
+C:\Users\zhangli\Desktop\BID\BID\bin\Debug\BID.exe.config
+C:\Users\zhangli\Desktop\BID\BID\obj\Debug\BID.exe
+C:\Users\zhangli\Desktop\BID\BID\obj\Debug\BID.pdb
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\bin\Debug\BID.exe.config
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.exe
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.pdb
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\bin\Debug\BID.exe
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\bin\Debug\BID.pdb
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.csprojResolveAssemblyReference.cache
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmBellyWaistHipData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmChestData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmDataQuery.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmFootData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmHeaderData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmLowerLimbsData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmNeckData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmOwner.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmQuery.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmShoulderData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmTrunkIntegralData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.BaseInfo.frmUpperLimbsData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.frmLogin.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.frmMain.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.InfoAddForm.frmAddData.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.SetSystem.frmBakup.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.SetSystem.frmClearTable.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.SetSystem.frmSetOP.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.Welcome.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.Properties.Resources.resources
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\obj\Debug\BID.csproj.GenerateResource.Cache
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\bin\Debug\db_BID.mdf
+F:\我的文档\454030959\FileRecv\BID(1)\BID\BID\bin\Debug\db_BID_log.ldf
+F:\Visual Studio 2015\BID\BID\bin\Debug\BID.exe.config
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.exe
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.pdb
+F:\Visual Studio 2015\BID\BID\bin\Debug\db_BID.mdf
+F:\Visual Studio 2015\BID\BID\bin\Debug\db_BID_log.ldf
+F:\Visual Studio 2015\BID\BID\bin\Debug\BID.exe
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmBellyWaistHipData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmChestData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmDataQuery.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmFootData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmHeaderData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmLowerLimbsData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmNeckData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmOwner.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmQuery.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmShoulderData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmTrunkIntegralData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.BaseInfo.frmUpperLimbsData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.DataAnalyze.frmDataAnalyze.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.DataAnalyze.frmDataStatistics.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.frmLogin.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.frmMain.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.InfoAddForm.frmAddData.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.SetSystem.frmBakup.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.SetSystem.frmClearTable.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.SetSystem.frmSetOP.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.Welcome.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.Properties.Resources.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\BID\BID\bin\Debug\BID.pdb
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.DataAnalyze.frmDataStatisticsResultDialog2.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.DataAnalyze.frmDataStatisticsResultDialog1.resources
+F:\Visual Studio 2015\BID\BID\obj\Debug\BID.csprojResolveAssemblyReference.cache

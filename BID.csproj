@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53901AD4-955D-4EEE-B3E9-EEBBD84D5CAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BID</RootNamespace>
+    <AssemblyName>BID</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClass\BaseInfo.cs" />
+    <Compile Include="BaseClass\DataBase.cs" />
+    <Compile Include="BaseInfo\frmBellyWaistHipData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmBellyWaistHipData.Designer.cs">
+      <DependentUpon>frmBellyWaistHipData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmChestData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmChestData.Designer.cs">
+      <DependentUpon>frmChestData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmDataQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmDataQuery.Designer.cs">
+      <DependentUpon>frmDataQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmFootData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmFootData.Designer.cs">
+      <DependentUpon>frmFootData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmHeaderData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmHeaderData.Designer.cs">
+      <DependentUpon>frmHeaderData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmLowerLimbsData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmLowerLimbsData.Designer.cs">
+      <DependentUpon>frmLowerLimbsData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmNeckData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmNeckData.Designer.cs">
+      <DependentUpon>frmNeckData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmOwner.Designer.cs">
+      <DependentUpon>frmOwner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmQuery.Designer.cs">
+      <DependentUpon>frmQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmShoulderData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmShoulderData.Designer.cs">
+      <DependentUpon>frmShoulderData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmTrunkIntegralData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmTrunkIntegralData.Designer.cs">
+      <DependentUpon>frmTrunkIntegralData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmUpperLimbsData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmUpperLimbsData.Designer.cs">
+      <DependentUpon>frmUpperLimbsData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAnalyze\DataAnalyzeUtil.cs" />
+    <Compile Include="DataAnalyze\frmDataAnalyze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAnalyze\frmDataAnalyze.Designer.cs">
+      <DependentUpon>frmDataAnalyze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAnalyze\frmDataStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAnalyze\frmDataStatistics.Designer.cs">
+      <DependentUpon>frmDataStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAnalyze\frmDataStatisticsResultDialog2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAnalyze\frmDataStatisticsResultDialog2.Designer.cs">
+      <DependentUpon>frmDataStatisticsResultDialog2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAnalyze\frmDataStatisticsResultDialog1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAnalyze\frmDataStatisticsResultDialog1.Designer.cs">
+      <DependentUpon>frmDataStatisticsResultDialog1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db_BIDDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_BIDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAddForm\frmAddData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoAddForm\frmAddData.Designer.cs">
+      <DependentUpon>frmAddData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetSystem\frmBakup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetSystem\frmBakup.Designer.cs">
+      <DependentUpon>frmBakup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetSystem\frmClearTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetSystem\frmClearTable.Designer.cs">
+      <DependentUpon>frmClearTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetSystem\frmSetOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetSystem\frmSetOP.Designer.cs">
+      <DependentUpon>frmSetOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BaseInfo\frmBellyWaistHipData.resx">
+      <DependentUpon>frmBellyWaistHipData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmChestData.resx">
+      <DependentUpon>frmChestData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmDataQuery.resx">
+      <DependentUpon>frmDataQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmFootData.resx">
+      <DependentUpon>frmFootData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmHeaderData.resx">
+      <DependentUpon>frmHeaderData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmLowerLimbsData.resx">
+      <DependentUpon>frmLowerLimbsData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmNeckData.resx">
+      <DependentUpon>frmNeckData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmOwner.resx">
+      <DependentUpon>frmOwner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmQuery.resx">
+      <DependentUpon>frmQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmShoulderData.resx">
+      <DependentUpon>frmShoulderData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmTrunkIntegralData.resx">
+      <DependentUpon>frmTrunkIntegralData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmUpperLimbsData.resx">
+      <DependentUpon>frmUpperLimbsData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAnalyze\frmDataAnalyze.resx">
+      <DependentUpon>frmDataAnalyze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAnalyze\frmDataStatistics.resx">
+      <DependentUpon>frmDataStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAnalyze\frmDataStatisticsResultDialog2.resx">
+      <DependentUpon>frmDataStatisticsResultDialog2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAnalyze\frmDataStatisticsResultDialog1.resx">
+      <DependentUpon>frmDataStatisticsResultDialog1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoAddForm\frmAddData.resx">
+      <DependentUpon>frmAddData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetSystem\frmBakup.resx">
+      <DependentUpon>frmBakup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetSystem\frmClearTable.resx">
+      <DependentUpon>frmClearTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetSystem\frmSetOP.resx">
+      <DependentUpon>frmSetOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="db_BIDDataSet.xsc">
+      <DependentUpon>db_BIDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="db_BIDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_BIDDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="db_BIDDataSet.xss">
+      <DependentUpon>db_BIDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="db_BID.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="db_BID_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>db_BID.mdf</DependentUpon>
+    </Content>
+    <Content Include="icon\07.ico" />
+    <Content Include="icon\162.ico" />
+    <Content Include="icon\170.ico" />
+    <Content Include="icon\171.ico" />
+    <Content Include="icon\172.ico" />
+    <Content Include="icon\23.ico" />
+    <Content Include="icon\3.ico" />
+    <Content Include="icon\42.ico" />
+    <Content Include="icon\44.ico" />
+    <Content Include="icon\45.ico" />
+    <Content Include="icon\87.ico" />
+    <Content Include="icon\add.ico" />
+    <Content Include="icon\backup.ico" />
+    <Content Include="icon\cancle.ico" />
+    <Content Include="icon\check.ico" />
+    <Content Include="icon\close.bmp" />
+    <Content Include="icon\Close.ico" />
+    <Content Include="icon\delete.ico" />
+    <Content Include="icon\detailed.ico" />
+    <Content Include="icon\edit.ico" />
+    <Content Include="icon\exit.ico" />
+    <Content Include="icon\find.ico" />
+    <Content Include="icon\h.ico" />
+    <Content Include="icon\help.bmp" />
+    <Content Include="icon\help.ico" />
+    <Content Include="icon\internet.bmp" />
+    <Content Include="icon\internet.ico" />
+    <Content Include="icon\main.ico" />
+    <Content Include="icon\print.ico" />
+    <Content Include="icon\question.ico" />
+    <Content Include="icon\s.ico" />
+    <Content Include="icon\save.ico" />
+    <Content Include="icon\search.ico" />
+    <Content Include="icon\z.ico" />
+    <Content Include="Image\frmMain.jpg" />
+    <Content Include="Image\Welcome-1.jpg" />
+    <Content Include="Image\Welcome.jpg" />
+    <Content Include="Image\登录背景图.jpg" />
+    <None Include="Resources\array.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
